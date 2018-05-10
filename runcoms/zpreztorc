@@ -35,7 +35,17 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
-  'prompt'
+  'prompt' \
+  'docker' \
+  'git' \
+  'gpg' \
+  'python' \
+  'ssh' \
+  'syntax-highlighting' \
+  'rsync' \
+  'autosuggestions' \
+  'tmux' \
+  'history-substring-search'
 
 #
 # Autosuggestions
