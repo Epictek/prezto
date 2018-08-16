@@ -11,3 +11,9 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Customize to your needs...
+
+alias t=task
+
+alias vim=kak
+
+alias img="pqiv -c --scale-mode-screen-fraction=1"
